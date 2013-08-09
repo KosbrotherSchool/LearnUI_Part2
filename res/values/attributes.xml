@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gallery1的名稱是我們定義的 -->
+	<declare-styleable name="Gallery1">
+	    <!-- galleryItemBackground 是Android一開始就預設的屬性 -->
+		<attr name="android:galleryItemBackground"/> 
+	</declare-styleable>
+</resources>
